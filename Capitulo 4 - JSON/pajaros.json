@@ -1,0 +1,103 @@
+{
+    "pajaros": [
+        {
+            "id": 0,
+            "nombre": "Colibri",
+            "descripcion": "Ave de pequeño tamaño capaz de volar a altas velocidades",
+            "función": "Polinizar flores"
+        },
+        {
+            "id": 1,
+            "nombre": "Gallina",
+            "descripcion": "Ave de pico corto, largo, curvado con alas cortas y robustas",
+            "función": "Servir de alimento y poner huevos comercializables"
+        },
+        {
+            "id": 2,
+            "nombre": "Pelicano",
+            "descripcion": "Ave acuatica de gran tamaño que se distingue por su gran pico",
+            "función": "Ayudar a controlar las poblaciones de peces"
+        }
+    ]
+}
+
+
+
+
+/*
+        {
+            "id": 0,
+            "nombre": "Gaviota",
+            "descripcion": "Ave costera caracterizada por su plumaje blanco y gris",
+            "función": "Controlar las poblaciones de peces pequeños e insectos"
+        },
+        {
+            "id": 0,
+            "nombre": "Avestruz",
+            "descripcion": "Ave pesada caracterizada por su gran tamaño y velocidades",
+            "función": "Dispersar semillas y controlar las poblaciones de insectos"
+        }
+
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        },
+        {
+            "id": 0,
+            "nombre": "",
+            "descripcion": "",
+            "función": ""
+        }
+    ]
+}
+*/

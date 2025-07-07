@@ -1,0 +1,11 @@
+{
+    "persona": {
+    "nombre":"Daniel",
+    "edad":40,
+    "aprendiz":"false",
+    "residencia":{"direccion":"calle 34 # 31-20",
+    "ciudad":"Palmira",
+    "departamento":"Valle del cauca"},
+    "telefono":"3188688008"
+    }
+}

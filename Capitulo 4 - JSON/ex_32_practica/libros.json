@@ -1,0 +1,148 @@
+{
+    "biblioteca": [
+        {
+            "titulo": "Los videojuegos",
+            "editorial": "Trillas",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "Eduardo Fernando Agudo Cruz",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544004073"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "Juegos Deportivos",
+            "editorial": "Trillas",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "José Luis Cervantes Guzmán",
+            "autor secundario": "Lupe Aguilar Cortez",
+            "autor terciario": "Victoria Acitores Romero"
+        },
+            "codigo sena": ["769544003871"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "Introducción a la biotecnología de los hongos",
+            "editorial": "Acriba, S.A",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "M. Wainwright",
+            "autor secundario": "Sara Martín Liras",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544001676"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "Biotecnología ambiental",
+            "editorial": "Tébar",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "Francisco Castillo Rodríguez",
+            "autor secundario": "María Dolores Roldán Ruiz",
+            "autor terciario": "Rafael Blasco Plá",
+            "autor cuaternario": "María José Huertas Romera",
+            "autor quinto": "Francisco Javier Caballero Domínguez",
+            "autor sexto": "Conrado Moreno-Vivián",
+            "autor septimo": "Manuel Martínez Luque-Romero"
+        },
+            "codigo sena": ["769544000646"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "Atlas de ecología",
+            "editorial": "THEMA",
+            "edicion": "",
+            "isbn": "958-9261-09-4",
+            "autores": {
+            "autor principal": "José Tola",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544001434"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "El gran libro del PC interno",
+            "editorial": "Marcombo, Alfaomega",
+            "edicion": "",
+            "isbn": "84-267-1425-0",
+            "autores": {
+            "autor principal": "Luis Durán Rodríguez",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": [""],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "La seguridad de la información",
+            "editorial": "LIMUSA",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "Enrique Daltabuit Godás",
+            "autor secundario": "Leobardo Hernandéz Audelo",
+            "autor terciario": "Guillermo Mallén Fullerton",
+            "autor cuaternario": "José de Jesús Vázquez Gómez"
+        },
+            "codigo sena": ["769544000225"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "Excel 2013",
+            "editorial": "Alfaomega",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "Rosario Peña Pérez",
+            "autor secundario": "Borja Orbegozo Arana",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544000190"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "El gran libro de Android",
+            "editorial": "Alfaomega",
+            "edicion": "4",
+            "isbn": "",
+            "autores": {
+            "autor principal": "Jesús Tomás Gironés",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["769544001952"],
+            "descripcion": ""
+        },
+
+        {
+            "titulo": "ARQUITECTURA DE COMPUTADORAS",
+            "editorial": "Alfaomega",
+            "edicion": "",
+            "isbn": "",
+            "autores": {
+            "autor principal": "Patricia Quiroga",
+            "autor secundario": "",
+            "autor terciario": ""
+        },
+            "codigo sena": ["76544000137"],
+            "descripcion": ""
+        }
+    ]
+}
